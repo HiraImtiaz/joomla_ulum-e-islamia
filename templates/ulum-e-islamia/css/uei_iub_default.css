@@ -1,0 +1,518 @@
+body
+	{
+		font-family: Calibri light,Arial, Agency FB;
+	}
+ h2
+    {
+      font-size:14px;
+      color: #515151;
+    }
+ul
+    {
+      padding: 0px 2px 0px 14px;
+      line-height: 2em;
+    }
+li
+    {
+      font-size: 12px;
+      text-align: justify;
+      margin-left: 0px;
+    }
+a
+    {
+      text-decoration:none;
+      font-size: 14px;
+    }
+#main_page
+	{
+		height:1500px; 
+		width:90%; 
+		margin-left:5%; 
+		background-color:gray;
+	}
+	#header
+	{
+		height:185px; 
+		width:100%; 
+		background-color:white;
+	}
+	#header_images
+	{
+		width:100%; 
+		height:70%;
+		background-color:white;
+	}
+	#iub_logo
+	{
+		width:100%; height:50%;
+	}
+    #dpt_logo_container
+    {
+      width:100%; height:50%;
+    }
+	#dpt_title_container
+    {
+      width:60%;
+      height:100%; 
+      float:left;
+    }
+	#dpt_title1
+    {
+      font-family: Calibri light,Arial, Agency FB;
+      font-size: 23px; 
+      color: #4e4b4b; 
+    }
+	#dpt_sub_title
+    { 
+      float: right; 
+      margin-right: 35px;
+      font-family: Calibri light,Arial, Agency FB;
+      font-size: 17px; 
+      color: #4e4b4b; 
+      font-style: italic;
+    }
+	#mcl_logo
+	{
+      width:40%; 
+      height:100%;
+      float:right;
+	}
+	#logo_img
+    {
+      margin-top:5px;
+      width: 127px; 
+      height: 55px;
+    }
+	
+	#nav
+	{
+		width:100%; 
+		height:30%; 
+		background-color:white;
+	}
+	
+	#contents_container
+	{
+		width:100%; 
+		height:1315px; 
+		background-color: #86CB85;
+	}
+	
+	#contents
+	{
+		height:99%;
+		width:99%;
+		margin-left:6px;
+		background-color: #86CB85;
+		padding-top: 6px;
+	}
+	#contents_top
+	{
+		width:100%;
+		height:99.9%; 
+		background-color:#F1FBF1;
+		border-top: 2px solid white;
+     	border-radius: 27px;
+	}
+	#text-area
+    {
+      width:90%; 
+      height:90%; 
+      background-color:white; 
+      border-radius: 27px; 
+      margin-left: 5%; 
+      margin-top: 5%;
+    }
+	#topic_heading
+    {
+      background-image: url("../images/bg1.jpg");
+      width: 100%;
+      background-repeat: no-repeat;
+      background-size: 100% 90px;
+      height: 90px;
+    }
+    #h2_style
+    {
+      font-size: 2em;
+      line-height: 1.5em;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      color: #504b4b;
+      font-weight: normal;
+      letter-spacing: -1px;
+      padding: 17px 0px 0px 35px;
+    }
+    #content_details
+    {
+      width: 90%;
+      margin-left: 40px;
+      margin-top: 1px;
+      line-height: 1.5em;
+      color: #404141;
+      font-size: 14px;
+      text-align: justify;
+    }
+	#contents_top_left
+	{
+		width:75%;
+		height:100%;
+		background-color:white; 
+		float:left;
+	}
+	#contents_top_leftL
+	{
+		width:34%; 
+		height:100%; 
+		background-color:#ccc;
+		float:left;
+	}
+	#contents_top_leftL_Top
+	{
+		width:100%;
+		height:50%; 
+		background-color:white;
+	}
+	#research_team_container
+	{
+		width:96%; 
+		height:98.5%; 
+		background-color:white;
+		margin-left:6px; 
+		padding:0px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+	#vs_head
+	{
+		height:10%;
+		width:100%; 
+		background-color:#0E9048;  
+		border-radius: 0.5em;
+	}
+	#vs_content
+	{
+		width:100%; 
+		height:89.9%; 
+		background-color:white;
+		border-bottom-left-radius: 0.5em;
+		border-bottom-right-radius: 0.5em;
+      	font-size:12px;
+	}
+	#research_team
+    {
+      width:100%; 
+      height:96%; 
+      background-color:white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+      overflow:auto;
+    }
+	
+	#contents_top_leftL_Bottom
+	{
+		width:100%; 
+		height:50%; 
+		background-color: white;
+	}
+	#equipments_container
+	{
+		width:96%; 
+		height:98.5%; 
+		background-color:white;
+		margin-left:6px; 
+		padding:0px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+    #equipments
+    {
+      width: 100%;
+      height: 96%;
+      background-color: white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+    }
+
+	
+	#contents_top_leftR
+	{
+		width:66%;
+		height:100%;
+		background-color:white;
+		float:right;
+	}
+	#main_contents
+	{
+		width:99.6%;
+		height:99.3%;
+		background-color:white;
+		padding:0px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+      	overflow:auto;
+	}
+	
+	#contents_top_right
+	{
+		width:25%; 
+		height:100%; 
+		background-color:white; 
+		float:right;
+	}
+	#whats_new_container
+	{
+		width:100%; 
+		height:50%; 
+		background-color:white;
+	}
+	#whats_new
+	{
+		width:96%;
+		height:98.5%; 
+		background-color:white;
+		margin-left:6px; 
+		padding:0px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+	#news
+    {
+      width:100%; 
+      height:96%; 
+      background-color:white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+    }
+	
+	#services_container
+	{
+		width:100%; 
+		height:50%; 
+		background-color:white;
+	}
+	#dpt_services
+	{
+		width:96%;
+		height:98.5%; 
+		background-color:white;
+		margin-left:6px; 
+		padding:0px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+	#services
+    {
+      width:100%; 
+      height:96%; 
+      background-color:white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+    }
+	
+	#contents_bottom
+	{
+		width:100%; 
+		height:25%;
+		background-color:#ccc;
+	}
+	#bottom_left
+	{
+		width:75%; 
+		height:100%;
+		background-color:#ccc; 
+		float:left;
+	}
+	#pictures_container
+	{
+		width:34%; 
+		height:100%; 
+		background-color:white; 
+		float:left;
+	}
+	#pictures
+	{
+		width:96%; 
+		height:98%; 
+		background-color:white; 
+		margin-left:6px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+	#researchers
+    {
+      width:100%; 
+      height:96%; 
+      background-color:white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+      overflow:auto;
+    }
+	#researcher_contents
+    {
+      color: #404141;
+      font-size: 12px;
+      line-height: 1.5em;
+      overflow: hidden;
+      text-align: justify;
+      padding: 1px 12px 0px 11px;
+      padding: 1px 12px 0px 11px;
+      width: 92%;
+      height: 98.8%;
+    }
+	#slide_show_container
+	{
+		width:66%;
+		height:100%;
+		background-color:white;
+		float:right;
+	}
+	#slide_show
+	{
+		width:99.6%; 
+		height:98%; 
+		background-color:white;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+      	overflow: hidden;
+	}
+	
+	#bottom_right
+	{
+		width:25%; 
+		height:100%; 
+		background-color:white; 
+		float:right;
+	}
+	#departmental_announcement
+	{
+		width:96%; 
+		height:98%; 
+		background-color:white; 
+		margin-left:6px;
+		border-radius: 0.5em;
+		border: 1px solid #a49f9f;
+		border-top: white;
+	}
+	#vs_head_bottom
+	{
+		height:15%;
+		width:100%; 
+		background-color: #0E9048; 
+		border-radius: 0.5em;
+	}
+	#vs_content_bottom
+	{
+		width:100%; 
+		height:84%; 
+		background-color:#f7f7f7;
+		background-color:white;
+		border-bottom-left-radius: 0.5em;
+		border-bottom-right-radius: 0.5em;
+	}
+
+	#content_details
+    {
+      width: 90%;
+      margin-left: 33px;
+      margin-top: 1px;
+      line-height: 1.5em;
+      color: #404141;
+      font-size: 14px;
+      text-align: justify;
+    }
+    #contact_us
+    {
+      width: 92%;
+      height: 98.8%;
+      background-color:white;
+      border-bottom-left-radius: 0.5em;
+      border-bottom-right-radius: 0.5em;
+    }
+
+	#topic_head
+    {
+      width: 100%;
+      height: 75%;
+      padding-top: 15px;
+      color: white;
+    }
+	#box_content
+    {
+      padding: 1px 12px 0px 11px; 
+      height: 420px;
+      color: #404141; 
+      font-size: 12px; 
+      line-height: 1.5em; 
+      text-align: justify;
+    }
+
+	#r_pic
+    {
+      margin-top:30px;
+    }
+	#img_r
+    {
+      float: right; 
+      padding: 7px 0px 5px 15px;
+      background-image: url(../images/staff/maqsood_ahmad.jpg);
+      width:80px;
+      height:95px;
+    }
+	#footer
+	{
+		font-size: 12px;
+		color: #333;
+	}
+#team_member
+{
+height: 86%;
+
+width: 90%;
+
+float: left;
+
+margin: 2% 3% 2% 0%;
+
+background-color: white;
+
+box-shadow: 0px 2px silver;
+
+padding: 3px;
+}
+#member_detail {
+
+    height: 100%;
+    width: 60%;
+    float: left;
+    font-size: small;
+
+}
+#member_name {
+
+    height: 24%;
+    width: 100%;
+    float: left;
+    text-align: left;
+  	font-weight: bold;
+
+}
+#member_intro {
+
+    height: 74%;
+    width: 100%;
+    margin-top: 5px;
+    float: left;
+    text-align: justify;
+
+}
+#photo {
+
+    height: 100%;
+    width: 140px;
+    float: right;
+
+}

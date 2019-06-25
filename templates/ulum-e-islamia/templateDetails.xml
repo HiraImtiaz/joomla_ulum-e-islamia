@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>Ulum-e-Islamia</name>
+	<version>1.0</version>
+	<creationDate>15/02/2019</creationDate>
+	<author>Hira Imtiaz</author>
+	<authorEmail>webmaster@iub.edu.pk</authorEmail>
+	<copyright>Copyright (C)2018 - Directorate of IT, The Islamia University of Bahawalpur, Pakistan.<br/>Designed by Webmaster</copyright>
+	<description>TPL_MCL_XML_DESCRIPTION</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>images</folder>
+	</files>
+	<positions>
+		<position>cssmenu</position>
+		<position>main_contents</position>
+		<position>research_team</position>
+		<position>whats</position>
+		<position></position>
+		<position></position>
+		<position></position>
+	</positions>
+</extension>
+

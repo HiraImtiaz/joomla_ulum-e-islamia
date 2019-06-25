@@ -1,0 +1,77 @@
+.navbar a
+{
+  font-family: Raleway !important;
+}
+.navbar ul li a
+{
+  display: block;
+}
+.nav.navbar-nav li a,
+.nav.navbar-nav li a:hover
+{
+  color: white;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus 
+{
+  background:#D12A28;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus 
+{
+  color: #fff;
+}
+
+.navbar-nav > li > a
+{
+  border-radius: 7px;
+}
+.nav > li > a 
+{
+  position: relative;
+  display: block;
+  padding: 14px 25px;
+  font-family: Raleway, sans-serif;
+}
+.navbar-default 
+{
+
+  background-color: #86CB85;
+  border-color: #b0aaaa;
+
+}
+.col-md-12
+{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.dpt-title-text 
+{
+  text-align: center;
+  font-family: calibari-light;
+}
+.dpt-subtitle-text 
+{
+  text-align: center;
+  font-family: calibari-light;
+  font-size: 17px;
+  color: #4e4b4b;
+  font-style: italic;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus 
+{
+  color: white;
+  background-color: #D12A28;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus 
+{
+  color: white;
+  background-color: #D12A28;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus 
+{
+  color: #fff;
+  text-decoration: none;
+  outline: 0;
+  background-color: #D12A28;
+}
